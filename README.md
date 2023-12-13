@@ -1,4 +1,4 @@
-# RSA-PROJECT
+# Networks and Autonomous Systems
 
 source vanetza/venv/bin/activate
 
